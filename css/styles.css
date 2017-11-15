@@ -1,0 +1,24 @@
+.sidebar{
+  float:left;
+  width: 270px;
+  background-color: rgba(6, 42, 79, 0.5);
+  text-align: justify;
+  font-weight: bold;
+  line-height: 2em;
+  color: silver;
+}
+h2{
+  text-align: center;
+  background-color: silver;
+  color: rgb(6, 42, 79);
+}
+.column {
+  float: right;
+  width: 300px;
+}
+
+body {
+  margin-left: 15%;
+  margin-right: 15%;
+  background-image: url("../img/background.jpg");
+}
